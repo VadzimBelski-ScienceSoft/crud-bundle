@@ -23,12 +23,12 @@
     "require": {
         "php": ">=5.5",
         "symfony/framework-bundle": "*",
-        "doctrine/orm": "2.5.*@dev",
-        "doctrine/doctrine-bundle": "1.3.*@dev",
-        "friendsofsymfony/rest-bundle": ">=1.5.0",
-        "jms/serializer-bundle": "0.13.*@dev",
-        "pagerfanta/pagerfanta": "~1.0@dev",
-        "willdurand/hateoas": "~2.4@dev"
+        "doctrine/orm": "*",
+        "doctrine/doctrine-bundle": "*",
+        "friendsofsymfony/rest-bundle": "*",
+        "jms/serializer-bundle": "*",
+        "pagerfanta/pagerfanta": "*",
+        "willdurand/hateoas": "*"
     },
     "autoload": {
         "psr-4": { "Tahoe\\Bundle\\CrudBundle\\": "" }
